@@ -1,0 +1,8 @@
+conneted with the database </br><br />
+<b>Notice</b>:  Undefined property: PDOStatement::$file in <b>C:\xampp\htdocs\PHP OOP APP AR\App\classes\Upload.php</b> on line <b>152</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\PHP OOP APP AR\App\classes\Upload.php</b> on line <b>152</b><br />
+<br />
+<b>Warning</b>:  filesize(): stat failed for App/files/5f1c77ad1cad7271308655.jpg in <b>C:\xampp\htdocs\PHP OOP APP AR\App\classes\Upload.php</b> on line <b>165</b><br />
+<br />
+<b>Warning</b>:  readfile(App/files/5f1c77ad1cad7271308655.jpg): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PHP OOP APP AR\App\classes\Upload.php</b> on line <b>166</b><br />
